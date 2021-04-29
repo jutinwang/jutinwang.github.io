@@ -1,0 +1,77 @@
+body {
+    background: linear-gradient(to right, orange, red); /* Gives the background orange and red gradiant */
+    font-family: Helvetica, Arial, sans-serif /* fonts */
+    }
+
+.menu ul{
+    display: inline-flex; /* makes list horizontal */
+    margin: 50px; /* creates boarder around class */
+}
+
+.menu ul li{
+    list-style: none; /* gets rid of bullet points */
+    margin: 0 25px; /* creates border around words */
+    cursor: pointer;
+    color: white;
+    font-family: Helvetica, 'Times New Roman', Times, serif ; /* fonts */
+
+}
+
+.banner{
+    width: 80%;
+    height: 70%;
+    top: 25%; /* moves text down */
+    left: 130px; /* moves sentence 130px right */
+    position: absolute;
+}
+
+    h1 {
+    color: White
+    }
+
+p {
+    font-family: Helvetica, 'Times New Roman', Times, serif /* fonts */
+  }
+
+.my-picture{
+    width: 50%;
+    float: right;
+}
+
+.my-picture img{
+    width: 300px;
+    height: auto;
+    position: absolute;
+    right: 20%;
+}
+
+
+  .ig-icon{
+      margin-left: 40px;
+      display: inline-flex;
+  }
+
+  .ig-inner{
+    height: 50px;
+    width: 50px;
+    left: 20px;
+}
+
+.quick-links{
+    left: 0; /* moves list to very left */
+    bottom: 0; /*moves list to very bottom */
+    position: absolute;
+    background: linear-gradient(to right, #db1bf6, #19d7f8); /*gives gradiant to list */
+}
+
+.quick-links ul{
+    display: inline-flex; /*This makes the list horizontal*/
+    margin: 25px auto; 
+    text-align: center;
+}
+
+.quick-links ul li{
+    list-style: none;
+    margin: 0 30px;
+    cursor: pointer;
+}
