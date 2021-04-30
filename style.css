@@ -33,18 +33,6 @@ p {
     font-family: Helvetica, 'Times New Roman', Times, serif /* fonts */
   }
 
-.my-picture{
-    width: 50%;
-    float: right;
-}
-
-.my-picture img{
-    width: 300px;
-    height: auto;
-    position: absolute;
-    right: 20%;
-}
-
 
   .ig-icon{
       margin-left: 40px;
