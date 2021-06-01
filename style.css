@@ -52,7 +52,7 @@ p {
 
 .my-picture img{
     width: 300px;
-    height: auto;
+    height: 300px;
     position: absolute;
     right: 20%;
 }
