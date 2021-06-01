@@ -45,18 +45,6 @@ p {
     left: 20px;
 }
 
-.my-picture{
-    width: 50%;
-    float: right;
-}
-
-.my-picture img{
-    width: 300px;
-    height: 300px;
-    position: absolute;
-    right: 20%;
-}
-
 .quick-links{
     left: 0; /* moves list to very left */
     bottom: 0; /*moves list to very bottom */
